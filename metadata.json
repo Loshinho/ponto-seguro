@@ -1,0 +1,7 @@
+{
+  "name": "PontoSeguro - Sistema de Ponto",
+  "description": "Sistema de registro de ponto integrado com Google Planilhas e suporte offline.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
